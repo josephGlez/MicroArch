@@ -10,6 +10,7 @@ Stage 1 - Initial Setup
 
 Stage 2 - Optimize
 - redundant zuul
+- redundant service registry
 - Integrate NginX with zuul
 - Swap Service Registry to Zookeeper
 - Create Containers (Docker)
